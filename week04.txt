@@ -14,3 +14,9 @@ log --oneline --graph
 
 
 3교시
+파이썬 funcition
+파이참 ide상에서 conflict 해결
+
+git 명령어
+log --oneline --graph
+fetch
