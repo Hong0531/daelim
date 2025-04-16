@@ -1,21 +1,13 @@
 2주차
 1교시 git 설치
-<<<<<<< HEAD
 2교시 git 명령어
-=======
-2교시 명령어
->>>>>>> 574c690d285616007dd4e94e709bb6d58e3183e8
 status
 init
 add <파일명>
 commit -m "커밋메세지"
 log
 checkout <해시코드 전체 또는 해시코드 7자리>
-<<<<<<< HEAD
-chekout -
-=======
 checkout -
 branch -M main
 remote add origin https://github.com/사용자아이디/원격리포지토리이름.git
-push -u origin main
->>>>>>> 574c690d285616007dd4e94e709bb6d58e3183e8
+push -u origin ma
