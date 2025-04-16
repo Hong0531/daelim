@@ -1,0 +1,22 @@
+4주차
+1교시
+conflict 해결방법
+
+git 명령어
+log --oneline
+
+
+2교시
+conflict 복습
+
+git 명령어
+log --oneline --graph
+
+
+3교시
+파이썬 funcition
+파이참 ide상에서 conflict 해결
+
+git 명령어
+log --oneline --graph
+fetch
